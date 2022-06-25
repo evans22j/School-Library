@@ -8,7 +8,7 @@
 ## Built With
 
 - Ruby
-- Bubocop
+- Rubocop
 
 
 ## Getting Started
