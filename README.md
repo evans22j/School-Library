@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blue)
 
 # OOP school library
 
@@ -8,7 +8,7 @@
 ## Built With
 
 - Ruby
-- Bubocop
+- Rubocop
 
 
 ## Getting Started
