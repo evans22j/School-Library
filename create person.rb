@@ -18,7 +18,6 @@ class CreatePerson
       puts 'Invalid input! Type a valid input (1 or 2)'
     end
   end
-  
 
   def create_student(age, name)
     print 'Parent Permission [y/n]: '
