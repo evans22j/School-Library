@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-brown)
+![](https://img.shields.io/badge/Microverse-blue)
 
 # OOP school library
 
@@ -45,6 +45,12 @@ rubocop -a
 - Twitter: [@Evans_22J](https://twitter.com/Evans_22J)
 - LinkedIn: [@Evans Sitibekiso](https://www.linkedin.com/in/evans-sitibekiso/)
 
+👤 **Collins Mezie**
+
+- GitHub: [@collinsmezie](https://github.com/collinsmezie)
+- Twitter: [@collinsmezie](https://twitter.com/collinsmezie1)
+- LinkedIn: [@collinsmezie](https://www.linkedin.com/in/collinsmezie/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -55,7 +61,7 @@ Give a :star: if you like this project! ❤️❤️❤️
 
 ## Acknowledgments
 
-- Original design idea by Nelson Sakwa on [Behance](https://creativecommons.org/licenses/by-nc/4.0/). for this project.
+- Many thanks to Microverse
 
 ## 📝 License
 
