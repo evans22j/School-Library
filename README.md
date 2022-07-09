@@ -45,6 +45,12 @@ rubocop -a
 - Twitter: [@Evans_22J](https://twitter.com/Evans_22J)
 - LinkedIn: [@Evans Sitibekiso](https://www.linkedin.com/in/evans-sitibekiso/)
 
+👤 **Collins Mezie**
+
+- GitHub: [@collinsmezie](https://github.com/collinsmezie)
+- Twitter: [@collinsmezie](https://twitter.com/collinsmezie1)
+- LinkedIn: [@collinsmezie](https://www.linkedin.com/in/collinsmezie/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
