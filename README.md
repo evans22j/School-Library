@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-brown)
+![](https://img.shields.io/badge/Microverse-blue)
 
 # OOP school library
 
@@ -55,7 +55,7 @@ Give a :star: if you like this project! ❤️❤️❤️
 
 ## Acknowledgments
 
-- Original design idea by Nelson Sakwa on [Behance](https://creativecommons.org/licenses/by-nc/4.0/). for this project.
+- Many thanks to Microverse
 
 ## 📝 License
 
