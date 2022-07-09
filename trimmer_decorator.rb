@@ -1,4 +1,4 @@
-require './nameable'
+require 'nameable'
 
 class TrimmerDecorator < Nameable
   def initialize(nameable = Nameable.new)
