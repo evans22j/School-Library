@@ -4,9 +4,9 @@ require './book'
 
 describe Rental do
   context 'testing Rental class' do
-    book = Book.new(title: 'The Great Gatsby', author: 'F. Scott Fitzgerald', id: 1)
-    person = Person.new(name: 'David', age: 20, id: 1, parent_permission: true)
-    rental = Rental.new('12-4-2020', book, person)
+    book = Book.new('The Great Gatsby', 'F. Scott Fitzgerald')
+    person = Person.new(20, 'David', parent_permission: true)
+    rental = Rental.new('12-4-2020', person, book)
 
     it 'should have a title' do
       expect(rental.book.title).to eq('The Great Gatsby')

@@ -1,11 +1,11 @@
-require './class_room'
+require './classroom'
 require './student'
 
-describe ClassRoom do
+describe Classroom do
   context 'testing ClassRoom class' do
-    classroom = ClassRoom.new(label: 'History')
-    student = Student.new(name: 'Martin', age: 20, id: 1, parent_permission: true)
-    classroom.add_students(student)
+    classroom = Classroom.new(label: 'History')
+    student = Student.new('Martin', 20, parent_permission: true)
+    classroom.add_student(student)
 
     it 'should have a label' do
       expect(classroom.label).to eq(label: 'History')
