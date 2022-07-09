@@ -37,13 +37,19 @@ irb
 ```
 rubocop -a
 ```
-## 👤Author
+## 👤Authors
 
 👤 **Evans Sitibekiso**
 
 - GitHub: [@evans22j](https://github.com/evans22j)
 - Twitter: [@Evans_22J](https://twitter.com/Evans_22J)
 - LinkedIn: [@Evans Sitibekiso](https://www.linkedin.com/in/evans-sitibekiso/)
+
+👤 **Collins Mezie**
+
+- GitHub: [@collinsmezie](https://github.com/collinsmezie)
+- Twitter: [@collinsmezie](https://twitter.com/collinsmezie1)
+- LinkedIn: [@collinsmezie](https://www.linkedin.com/in/collinsmezie/)
 
 ## 🤝 Contributing
 
